@@ -5,7 +5,7 @@
 
 <br>
 
-- 🔭 I’m currently 3rd year Engineering Student At Panjab University Chandigarh.
+- 🔭 I’m currently 4th year Engineering Student At Panjab University Chandigarh.
 - 🌱 I’m currently learning DSA and Full Stack Web Development .
 - 📫 How to reach me: mddanishjamal04@yahoo.com
 - ⚡ Fun fact: I Love Singing and Coding.
