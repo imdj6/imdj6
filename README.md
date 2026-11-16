@@ -4,7 +4,7 @@
 ![banner](https://user-images.githubusercontent.com/81770608/208404513-7f34eacc-02d1-4469-8b48-822a157df046.png)
 
 <br>
-- 🌱 I’m currently learning DSA and Full Stack Web Development .
+- 🌱 I’m currently learning AI.
 - 📫 How to reach me: mddanishjamal04@yahoo.com
 - ⚡ Fun fact: I Love Singing and Coding.
 
